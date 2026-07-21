@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.0.19",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.19/MikadoPRO-1.0.19-debug.apk",
-  "notes": "Исправлена кнопка Проверить обновление. versionCode: 20"
+  "versionCode": 21,
+  "versionName": "1.0.20",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.20/MikadoPRO-1.0.20-debug.apk",
+  "notes": "versionCode: 21\nПробная проверка OTA: на кнопке обновления появилась галочка ✓"
 }
