@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "1.0.30",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.30/MikadoPRO-1.0.30-debug.apk",
-  "notes": "versionCode: 31\nПоиск маршрута: короткий селект пресета + Импорт/Экспорт QR; убрано из редактора."
+  "versionCode": 32,
+  "versionName": "1.0.31",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.31/MikadoPRO-1.0.31-debug.apk",
+  "notes": "versionCode: 32\nOTA: повтор при 404 + релиз раньше version.json. Пресеты: нумпад под полем клиентов, все совпадения."
 }
