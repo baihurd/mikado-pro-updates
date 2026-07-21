@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.17/MikadoPRO-1.0.17-debug.apk",
-  "notes": "Автообновления через GitHub + проверка в настройках виджета"
+  "versionCode": 19,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.18/MikadoPRO-1.0.18-debug.apk",
+  "notes": "Пробное обновление: таймер — жирный в работе, тонкий на паузе"
 }
