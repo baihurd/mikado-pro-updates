@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.24",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.24/MikadoPRO-1.0.24-debug.apk",
-  "notes": "Простая проверка обновлений только через GitHub."
+  "versionCode": 26,
+  "versionName": "1.0.25",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.25/MikadoPRO-1.0.25.apk",
+  "notes": "Release-подпись + клавиатура не перекрывает попап поиска маршрута (создание/редактирование пресета)."
 }
