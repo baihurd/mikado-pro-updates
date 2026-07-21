@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.0.33",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.33/MikadoPRO-1.0.33-debug.apk",
-  "notes": "versionCode: 34\nОбучение: нормальный текст + тур с подсветкой кнопок (маршрут, поиск, учёт, круги, клиент, карточка, визит)."
+  "versionCode": 35,
+  "versionName": "1.0.34",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.34/MikadoPRO-1.0.34-debug.apk",
+  "notes": "versionCode: 35\nОбучение: прямоугольная подсветка, карточка не перекрывает цель, ~38 шагов с открытием экранов, понятный текст."
 }
