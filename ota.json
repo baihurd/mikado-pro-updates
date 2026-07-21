@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.26/MikadoPRO-1.0.26-debug.apk",
-  "notes": "versionCode: 27\nПопап-клавиатура для кода клиента в редакторе пресета."
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.27/MikadoPRO-1.0.27-debug.apk",
+  "notes": "versionCode: 28\nФикс обновлений: без лишнего попапа, после скачивания кнопка Установить."
 }
