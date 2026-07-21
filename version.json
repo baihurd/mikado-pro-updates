@@ -1,6 +1,6 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.26",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.26/MikadoPRO-1.0.26.apk",
-  "notes": "Фикс установщика обновлений (FileProvider)."
+  "versionCode": 28,
+  "versionName": "1.0.27",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.27/MikadoPRO-1.0.27.apk",
+  "notes": "Надёжная установка обновлений (PackageInstaller) + кнопка «В браузере»."
 }
