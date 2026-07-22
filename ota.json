@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.35",
-  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.35/MikadoPRO-1.0.35-debug.apk",
-  "notes": "versionCode: 36\nОбучение: нормальный русский текст; после 23 шага снова открывается учёт."
+  "versionCode": 37,
+  "versionName": "1.0.36",
+  "apkUrl": "https://github.com/baihurd/mikado-pro-updates/releases/download/v1.0.36/MikadoPRO-1.0.36-debug.apk",
+  "notes": "versionCode: 37\nОбучение: Б/О — QR или переплата; Б/Н — только безнал."
 }
